@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Command line: `npx create-react-app ejected-create-react-app --use-npm --template typescript`
+Command line: `npx create-react-app ejected-create-react-app --use-npm --template cra-template-pwa-typescript`
 
 ## Available Scripts
 
