@@ -1,7 +1,7 @@
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
-*           text=auto
+*           text=auto eol=lf
 
 *.sln       text eol=crlf
 *.csproj    text eol=crlf
@@ -20,6 +20,9 @@
 *.props     text eol=crlf
 *.filters   text eol=crlf
 *.vcxitems  text eol=crlf
+
+*.cmd       text eol=crlf
+*.bat       text eol=crlf
 
 *.cs        diff=csharp
 *.doc	    diff=astextplain
